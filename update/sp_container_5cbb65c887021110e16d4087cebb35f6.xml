@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>New employee - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="new_employee">4b7b294887021110e16d4087cebb35a6</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 09:50:19</sys_created_on>
+        <sys_id>5cbb65c887021110e16d4087cebb35f6</sys_id>
+        <sys_name>New employee - Container 1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_container_5cbb65c887021110e16d4087cebb35f6</sys_update_name>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
