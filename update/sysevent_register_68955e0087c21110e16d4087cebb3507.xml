@@ -15,6 +15,6 @@
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysevent_register_68955e0087c21110e16d4087cebb3507</sys_update_name>
-        <table>x_58872_needit_needit</table>
+        <table>x_58872_needit_needit_task</table>
     </sysevent_register>
 </record_update>
